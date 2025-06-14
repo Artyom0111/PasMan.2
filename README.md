@@ -1,1 +1,1 @@
-# PasMan
+# Password Manager
